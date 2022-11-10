@@ -3,7 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MSyamil&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSyamil&theme=vision-friendly-dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSyamil&layout=compact&theme=vision-friendly-dark&langs_count=12"/><br />
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=MSyamil&repo=github-readme-stats&cache_seconds=86400&theme=vision-friendly-dark">
 </p>
 <!--
 **MSyamil/MSyamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
